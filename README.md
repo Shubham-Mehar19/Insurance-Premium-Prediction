@@ -70,7 +70,7 @@ We are going to predict charges of insurance.
 # Top Insights
 
 ## Charges Vs age and hue="smoker"
-![scatter](Insurance premium prediction/images/jointplot.png)
+![scatter](images/jointplot.png)
 
 Well, health insurance premium increases with age. 
 
