@@ -72,7 +72,7 @@ We are going to predict charges of insurance.
 
 ## Charges Vs age and hue="smoker"
 
-<img src = "Insurance premium prediction/images/jointplot.png"/>
+<img src = "images/jointplot.png"/>
 
 
 Well, health insurance premium increases with age. 
@@ -91,7 +91,7 @@ Health insurance and smoking do not go hand-in-hand. You must understand that ho
 
 ## Charges vs bmi
 
-<img src = "Insurance premium prediction/images/jointplot2.png"/>
+<img src = "images/jointplot2.png"/>
 
 Your BMI signifies healthy you are. A higher BMI means that you are more susceptible to coronary heart diseases and other illnesses like diabetes and other weight-related diseases. Concurrently, the medical treatment, along with the cost of medication required for such conditions is high.
 
@@ -111,7 +111,7 @@ Here's all results of the machine learning models with their default parameters.
 
 ## Comparing Performances of all model predictions with actual value
 
-<img src = "Insurance premium prediction/images/models plots comparision.png"/>
+<img src = "images/models plots comparision.png"/>
 
 Gradientboosting regression prediction is close to actual values which is vissible from "Gradientboosting Regression Prediction With Actual Values" plot.
 
