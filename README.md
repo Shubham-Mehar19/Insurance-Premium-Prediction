@@ -71,6 +71,8 @@ We are going to predict charges of insurance.
 
 ## Charges Vs age and hue="smoker"
 ![scatter](images/jointplot.png)
+<img src = "images/jointplot.png"/>
+
 
 Well, health insurance premium increases with age. 
 
