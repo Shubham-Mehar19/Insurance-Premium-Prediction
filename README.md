@@ -82,14 +82,15 @@ Since at a young age, the chances of encountering health conditions and visiting
 
 However, with the increasing age, the probabilities of a person facing health issues and visiting doctors rise, thereby increasing the premium amount as well. 
 
+## How smoking affect insurance premium?
+
+If you are a smoker, be prepared to pay a higher amount for your medical insurance policy. Since health risks are higher for smokers, insurance companies charge a higher premium to mitigate the risks associated with it.
 Health insurance and smoking do not go hand-in-hand. You must understand that how they are related to each other in order to realize how tobacco consumption can affect your finances. Smoking can impact the medical coverage costs to a great extent. Health insurance rates are determined by the insurance companies differently for individuals who smoke.
 
-- The smoker has more charges of insurance.
-Since health risks are higher for smokers, insurance companies charge a higher premium to mitigate the risks associated with it.
 
 ## Charges vs bmi
 
-![jointplot](Insurance premium prediction/images/jointplot.png)
+<img src = "Insurance premium prediction/images/jointplot2.png"/>
 
 Your BMI signifies healthy you are. A higher BMI means that you are more susceptible to coronary heart diseases and other illnesses like diabetes and other weight-related diseases. Concurrently, the medical treatment, along with the cost of medication required for such conditions is high.
 
@@ -109,7 +110,7 @@ Here's all results of the machine learning models with their default parameters.
 
 ## Comparing Performances of all model predictions with actual value
 
-![plot](Insurance premium prediction/images/models plots comparision.png)
+<img src = "Insurance premium prediction/images/models plots comparision.png"/>
 
 Gradientboosting regression prediction is close to actual values which is vissible from "Gradientboosting Regression Prediction With Actual Values" plot.
 
